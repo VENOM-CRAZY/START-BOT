@@ -3,8 +3,7 @@ aiofiles
 asyncio
 ffmpeg-python
 pillow
-git+https://github.com/pyrogram/pyrogram@master
-git+https://github.com/VENOMxCRAZY9/venomtgcalls@master
+pyrogram==1.4.12
 pytube
 wget
 python-dotenv
@@ -12,7 +11,6 @@ search-engine-parser
 tgcrypto
 youtube-search-python==1.5.1
 youtube-search
-git+https://github.com/VENOMxCRAZY9/spedtistcli@master
 cryptography
 dnspython
 future
@@ -23,9 +21,7 @@ psutil
 pykeyboard
 pyromod
 requests
-git+https://github.com/VENOMxCRAZY9/spedtistcli@master
 uvloop
-git+https://github.com/VENOMxCRAZY9/opyotdol@master
 telegraph
 heroku3
 ffmpeg
